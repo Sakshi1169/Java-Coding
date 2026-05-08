@@ -18,6 +18,7 @@ public class LinearSearch {
             {
                 found=true;
                 System.out.println("Element is Found at Index "+i);
+                break;
             }
         }
 
